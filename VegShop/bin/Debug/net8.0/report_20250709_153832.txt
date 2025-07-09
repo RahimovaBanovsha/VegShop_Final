@@ -1,0 +1,8 @@
+--- Shop Statistics Report ---
+Total Customers       : 13
+Successful Sales      : 12
+Rotten Discards       : 1
+Toxic Escapes         : 0
+Total Sales (kg)      : 39,75
+Current Rating        : 5,00
+Report Date           : 09.07.2025 15:38:32

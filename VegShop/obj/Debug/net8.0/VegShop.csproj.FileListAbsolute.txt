@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\bin\Debug\net8.0\VegShop.exe
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\bin\Debug\net8.0\VegShop.deps.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\bin\Debug\net8.0\VegShop.runtimeconfig.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\bin\Debug\net8.0\VegShop.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\bin\Debug\net8.0\VegShop.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.AssemblyInfo.cs
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.sourcelink.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\refint\VegShop.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\VegShop.genruntimeconfig.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\VegShop\VegShop\obj\Debug\net8.0\ref\VegShop.dll
